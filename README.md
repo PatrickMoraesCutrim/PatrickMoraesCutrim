@@ -1,14 +1,12 @@
-### Hi there 👋
-
-<!--
-**PatrickMoraesCutrim/PatrickMoraesCutrim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+##Bem vindo ao perfil de um cara aleatório
 
 - 🔭 estou desenvolvendo projetos com linguagem C, jS, html e python
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 🤖 Sou produtor de conteudo da plataforma inovonline.vercel.app.
+- 💬 tenho skils de Designer 
 - ⚡ Fun fact: ...
--->
+
+<div>
+  <href ="https://beacons.ai/PatrickMoraesCutrim">
+    <img heigth ="180m" src="https://github-readme-stats.vercel.app/api?username=PatrickMoraesCutrim&show_icons=true&theme=dark&include_all_commits=true/>
+    <img heigth ="180m" src="https://github-readme-stats.vercel.app/api?username=PatrickMoraesCutrim&show_icons=true&theme=dark&include_all_commits=true/>
+</div>
